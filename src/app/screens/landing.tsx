@@ -27,13 +27,13 @@ export default function Landing() {
                     <img className="profile-image img-fluid py-3 d-block d-lg-none"
                          src="/assets/images/Chanelle.svg"
                          alt="Chanelle Bösiger"/>
-                    <p className="w-75">
+                    <p>
                         I am a software engineer with {years} years of experience in the field. In this role, I actively
                         collaborate with graphic designers, testers, and fellow developers, both internally and
                         externally, to deliver high-quality solutions. I am committed to delivering innovative,
                         user-centric solutions.
                     </p>
-                    <p className="w-75">
+                    <p>
                         With experience in both front-end and back-end development, alongside a focus on problem-solving
                         and attention to detail, I aim to build applications that align with project requirements and
                         effectively address client needs.
