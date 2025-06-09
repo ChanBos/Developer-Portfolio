@@ -1,26 +1,120 @@
-@import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+#root, html, .App, body {
+    height: auto;
+    min-height: 100vh;
+    position: relative;
+    font-family: Roboto, Calibri, Helvetica, sans-serif !important;
+    background-color: #0B1215 !important;
+    color: #ffffff !important;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.nav-link:hover {
+    color: #0a58ca !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.wave {
+    animation-name: wave-animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@keyframes wave-animation {
+    0% {
+        transform: rotate(0.0deg)
+    }
+    10% {
+        transform: rotate(14.0deg)
+    }
+    20% {
+        transform: rotate(-8.0deg)
+    }
+    30% {
+        transform: rotate(14.0deg)
+    }
+    40% {
+        transform: rotate(-4.0deg)
+    }
+    50% {
+        transform: rotate(10.0deg)
+    }
+    60% {
+        transform: rotate(0.0deg)
+    }
+    100% {
+        transform: rotate(0.0deg)
+    }
+}
+
+.profile-image {
+    outline: 5px solid #0B1215;
+    outline-offset: -4px;
+}
+
+h1 {
+    font-size: 50px !important;
+}
+
+p, label, .d-table-cell {
+    line-height: 1.56;
+    font-size: 16px !important;
+}
+
+p, label, figcaption {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.d-table-cell {
+    vertical-align: top;
+}
+
+figure img {
+    max-width: 50px !important;
+    height: auto !important;
+}
+
+.btn {
+    background-color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1)) !important;
+    color: #ffffff !important;
+    font-weight: 500 !important;
+}
+
+.btn:hover {
+    background-color: #0a58ca !important;
+}
+
+.form-error {
+    font-size: 14px !important;
+}
+
+.required:after {
+    content: " *";
+    color: #db282e;
+}
+
+@media (min-width: 576px) {
+    .h-sm-100 {
+        height: 100%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .profile-image {
+        height: 500px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .profile-image {
+        height: 600px !important;
+        width: auto !important;
+    }
+
+    #home {
+        height: 100vh;
+    }
+
+    .techs-row {
+        width: 75% !important;
+    }
 }

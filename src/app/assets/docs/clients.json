@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Thirst",
+    "image": "/assets/images/clients/Thirst.png",
+    "site_url": "https://thirst.co.za/"
+  },
+  {
+    "title": "Barefoot Cyber",
+    "image": "/assets/images/clients/BarefootCyber.svg",
+    "site_url": "https://www.barefootcyber.com/"
+  },
+  {
+    "title": "IronTree",
+    "image": "/assets/images/clients/IronTree.png",
+    "site_url": "https://www.irontree.co.za/"
+  },
+  {
+    "title": "Dial-a-Bed",
+    "image": "/assets/images/clients/Dial-a-Bed.png",
+    "site_url": "https://www.dialabed.co.za/"
+  },
+  {
+    "title": "Dis-Chem",
+    "image": "/assets/images/clients/DisChem.png",
+    "site_url": "https://www.dischem.co.za/"
+  },
+  {
+    "title": "TeamQ",
+    "image": "/assets/images/clients/TeamQ.svg",
+    "site_url": "https://www.teamq.io/"
+  },
+  {
+    "title": "BVA Architects (Pty) Ltd",
+    "image": "/assets/images/clients/BVA.png",
+    "site_url": "https://www.bva.co.za/"
+  }
+]

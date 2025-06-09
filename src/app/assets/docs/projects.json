@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Resort Application",
+    "repoLink": "https://github.com/ChanBos/MERN-Resort-Booking-App",
+    "deployLink": "https://mern-resort-booking-app.herokuapp.com/",
+    "image": "/assets/images/projects/CasaDeBoho.png",
+    "tech": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node"
+    ]
+  },
+  {
+    "title": "Recipe Application",
+    "repoLink": "https://github.com/ChanBos/Next-Recipe-Search-App",
+    "deployLink": "https://next-recipe-search-app.vercel.app/",
+    "image": "/assets/images/projects/Recipe.png",
+    "tech": [
+      "Next"
+    ]
+  },
+  {
+    "title": "Todo Application",
+    "repoLink": "https://github.com/ChanBos/MERN-Todo-With-Auth",
+    "deployLink": "https://mern-todo-with-auth.herokuapp.com/",
+    "image": "/assets/images/projects/ToDo.png",
+    "tech": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node"
+    ]
+  },
+  {
+    "title": "Weather Application",
+    "repoLink": "https://github.com/ChanBos/React-Weather-App",
+    "deployLink": "https://mean-fly.surge.sh/",
+    "image": "/assets/images/projects/WeatherBot.png",
+    "tech": [
+      "React"
+    ]
+  },
+  {
+    "title": "Sudoku Application",
+    "repoLink": "https://github.com/ChanBos/Sudoku-App",
+    "deployLink": "https://fathomless-island-77318.herokuapp.com/",
+    "image": "/assets/images/projects/Sudoku.png",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Redux"
+    ]
+  },
+  {
+    "title": "iTunes Application",
+    "repoLink": "https://github.com/ChanBos/iTunes-Search-App",
+    "deployLink": "https://itunes-search-app-heroku.herokuapp.com/",
+    "image": "/assets/images/projects/iTunes.png",
+    "tech": [
+      "Express",
+      "React",
+      "Node"
+    ]
+  },
+  {
+    "title": "Car Database Application",
+    "repoLink": "https://github.com/ChanBos/Car-Database-App",
+    "deployLink": "https://mern-car-database-app.herokuapp.com/",
+    "image": "/assets/images/projects/CarDatabase.png",
+    "tech": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node"
+    ]
+  },
+  {
+    "title": "React Calculator Application",
+    "repoLink": "https://github.com/ChanBos/React-Calculator-App",
+    "deployLink": "https://feeble-bedroom.surge.sh/",
+    "image": "/assets/images/projects/Calculator.png",
+    "tech": [
+      "React"
+    ]
+  },
+  {
+    "title": "Shopping Cart Application",
+    "repoLink": "https://github.com/ChanBos/Shopping-Cart",
+    "deployLink": "",
+    "image": "/assets/images/projects/ShoppingCart.png",
+    "tech": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "title": "Web Project Application",
+    "repoLink": "https://github.com/ChanBos/React-Express-Web-Project-App",
+    "deployLink": "",
+    "image": "/assets/images/projects/WebProjects.png",
+    "tech": [
+      "Express",
+      "React",
+      "Node"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "description": "Programming Languages",
+    "entries": [
+      {
+        "title": "HTML5",
+        "image": "/assets/images/techs/HTML5.png"
+      },
+      {
+        "title": "CSS3",
+        "image": "/assets/images/techs/CSS3.png"
+      },
+      {
+        "title": "JavaScript",
+        "image": "/assets/images/techs/JavaScript.png"
+      },
+      {
+        "title": "PHP",
+        "image": "/assets/images/techs/PHP.png"
+      },
+      {
+        "title": "Python",
+        "image": "/assets/images/techs/Python.png"
+      },
+      {
+        "title": "SQL",
+        "image": "/assets/images/techs/SQL.png"
+      }
+    ]
+  },
+  {
+    "description": "Programming Frameworks, Libraries, Template Engines, and Runtime Environments",
+    "entries": [
+      {
+        "title": "Bootstrap",
+        "image": "/assets/images/techs/Bootstrap.png"
+      },
+      {
+        "title": "Tina4",
+        "image": "/assets/images/techs/Tina4.svg"
+      },
+      {
+        "title": "Next.js",
+        "image": "/assets/images/techs/Next.js.png"
+      },
+      {
+        "title": "Express.js",
+        "image": "/assets/images/techs/Express.png"
+      },
+      {
+        "title": "React",
+        "image": "/assets/images/techs/React.png"
+      },
+      {
+        "title": "jQuery",
+        "image": "/assets/images/techs/jQuery.png"
+      },
+      {
+        "title": "NodeJS",
+        "image": "/assets/images/techs/Node.js.png"
+      },
+      {
+        "title": "Twig",
+        "image": "/assets/images/techs/Twig.png"
+      },
+      {
+        "title": "Jinja2",
+        "image": "/assets/images/techs/Jinja.png"
+      }
+    ]
+  },
+  {
+    "description": "Databases and Database Management Systems",
+    "entries": [
+      {
+        "title": "MongoDB",
+        "image": "/assets/images/techs/MongoDB.png"
+      },
+      {
+        "title": "MySQL",
+        "image": "/assets/images/techs/MySQL.png"
+      },
+      {
+        "title": "SQLite",
+        "image": "/assets/images/techs/SQLite.png"
+      },
+      {
+        "title": "PostgreSQL",
+        "image": "/assets/images/techs/PostgresSQL.png"
+      }
+    ]
+  },
+  {
+    "description": "Platforms",
+    "entries": [
+      {
+        "title": "Magento",
+        "image": "/assets/images/techs/Magento.png"
+      },
+      {
+        "title": "VodaPay",
+        "image": "/assets/images/techs/Vodapay.png"
+      }
+    ]
+  }
+]
