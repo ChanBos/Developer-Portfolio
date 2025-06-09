@@ -1,9 +1,9 @@
 "use client";
 
 import React, {useState, CSSProperties} from "react";
-import {ToastContainer, Slide, toast} from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-import emailjs from '@emailjs/browser';
+import {ToastContainer, Slide, toast} from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import emailjs from "@emailjs/browser";
 import PuffLoader from "react-spinners/PuffLoader";
 import $ from "jquery";
 
@@ -40,7 +40,7 @@ export default function ContactForm() {
             e.stopPropagation();
         }
 
-        form.classList.add('was-validated');
+        form.classList.add("was-validated");
 
         return form.checkValidity();
     }
